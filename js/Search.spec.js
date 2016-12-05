@@ -1,4 +1,3 @@
-
 /* global test expect */
 import React from 'react'
 import { Provider } from 'react-redux'
