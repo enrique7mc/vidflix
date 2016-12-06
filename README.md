@@ -20,8 +20,4 @@ Small Netflix clone built with React/Redux during Brian Holt's workshop *A Compl
 - `npm run dev`
 - open `localhost:8080`
 
-## A Complete Intro to React
-
-Welcome to a complete intro to React! The site actual workshop material for this repo can be found [here][gh-page].
-
 [gh-page]: http://btholt.github.io/complete-intro-to-react/
