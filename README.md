@@ -1,6 +1,6 @@
 # Vidflix
 
-Small Netflix clone built with React/Redux during Brian Holt's workshop.
+Small Netflix clone built with React/Redux during Brian Holt's workshop *A Complete Intro to React*, the site actual workshop material can be found [here][gh-page].
 
 ## Features
 
